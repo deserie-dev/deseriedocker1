@@ -14,6 +14,26 @@
 
 ---
 
+### Docker Commands
+
+```
+  docker build -t my-app:1.0 .
+
+  docker run my-app:1.0
+
+  docker ps
+```
+
+### Docker-Compose Commands
+
+```
+  docker-compose up
+
+  docker-compose ps
+```
+
 ### Resources
 
 [Node Official Image](https://hub.docker.com/_/node)
+
+[Docker Commands Cheat Sheet](https://docs.docker.com/engine/reference/commandline/docker/)
