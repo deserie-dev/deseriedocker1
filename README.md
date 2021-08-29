@@ -10,7 +10,7 @@
 
 ### Sample Node App
 
-![Sample App](./app/images/app-gif.gif)
+![Sample App](./app/images/app.gif)
 
 ---
 

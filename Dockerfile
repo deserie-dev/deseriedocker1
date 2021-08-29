@@ -4,7 +4,7 @@ WORKDIR /c/Users/Deserie Murembeni/Desktop/deseriedocker1
 
 COPY package*.json ./
 
-COPY app.js ./
+COPY app/app.js ./
 
 RUN npm install
 
